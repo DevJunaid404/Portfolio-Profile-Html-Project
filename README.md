@@ -1,6 +1,6 @@
 # Portfolio-Profile-Html-Project
 
-# Junaid Sha - Portfolio 💻🚀  
+# Junaid Shah - Portfolio 💻🚀  
 
 Welcome to my personal portfolio! This project showcases my journey in **web development**, highlighting my **skills, projects, and professional background**.  
 
