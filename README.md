@@ -5,7 +5,7 @@
 Welcome to my personal portfolio! This project showcases my journey in **web development**, highlighting my **skills, projects, and professional background**.  
 
 ## 📌 About Me  
-I am **Junaid Sha**, a **Computer Science graduate** and a **Data Entry Operator at Pepsi**. Passionate about technology, I am currently learning **HTML, JavaScript, and web development** to build interactive and user-friendly websites.  
+I am **Junaid Shah, a **Computer Science graduate** and a **Data Entry Operator at Pepsi**. Passionate about technology, I am currently learning **HTML, JavaScript, and web development** to build interactive and user-friendly websites.  
 
 ## 🌟 Features  
 - ✅ Personal introduction  
